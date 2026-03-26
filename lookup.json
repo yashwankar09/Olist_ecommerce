@@ -1,0 +1,36 @@
+[
+    {
+        "csvrelativeURL": "refs/heads/main/olist_orders_dataset.csv",
+        "outputFileName" : "olist_orders_dataset.csv"
+    },
+
+    {
+        "csvrelativeURL": "refs/heads/main/olist_customers_dataset.csv",
+        "outputFileName" : "olist_customers_dataset.csv"
+    },
+
+    {
+        "csvrelativeURL": "refs/heads/main/olist_order_items_dataset.csv",
+        "outputFileName" : "olist_order_items_dataset.csv"
+    },
+
+    {
+        "csvrelativeURL": "refs/heads/main/olist_order_reviews_dataset.csv",
+        "outputFileName" : "olist_order_reviews_dataset.csv"
+    },
+
+    {
+        "csvrelativeURL": "refs/heads/main/olist_products_dataset.csv",
+        "outputFileName" : "olist_products_dataset.csv"
+    },
+
+    {
+        "csvrelativeURL": "refs/heads/main/olist_sellers_dataset.csv",
+        "outputFileName" : "olist_sellers_dataset.csv"
+    },
+
+    {
+        "csvrelativeURL": "refs/heads/main/product_category_name_translation.csv",
+        "outputFileName" : "product_category_name_translation.csv"
+    }
+]
